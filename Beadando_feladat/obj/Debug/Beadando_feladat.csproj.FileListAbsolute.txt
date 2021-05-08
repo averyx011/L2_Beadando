@@ -1,0 +1,15 @@
+D:\Beadando_feladat\Beadando_feladat\bin\Debug\Beadando_feladat.exe.config
+D:\Beadando_feladat\Beadando_feladat\bin\Debug\Beadando_feladat.exe
+D:\Beadando_feladat\Beadando_feladat\bin\Debug\Beadando_feladat.pdb
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.csprojAssemblyReference.cache
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\MainWindow.g.cs
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\App.g.cs
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat_MarkupCompile.cache
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat_MarkupCompile.lref
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\MainWindow.baml
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.g.resources
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.Properties.Resources.resources
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.csproj.GenerateResource.cache
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.csproj.CoreCompileInputs.cache
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.exe
+D:\Beadando_feladat\Beadando_feladat\obj\Debug\Beadando_feladat.pdb
