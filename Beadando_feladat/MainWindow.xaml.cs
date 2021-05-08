@@ -27,12 +27,12 @@ namespace Beadando_feladat
         {
             InitializeComponent();
             Szamla sz = new Szamla();
-            sz.name1 = "Beta";
+            sz.name1 = "Gábor";
             tulaj_nev1.Text = sz.name1.ToString();
-            sz.egyenleg_1 = "5000";
+            sz.egyenleg_1 = "10000";
             egyenleg1.Text = sz.egyenleg_1.ToString();
 
-            sz.name2 = "Alfa";
+            sz.name2 = "Józsi";
             tulaj_nev2.Text = sz.name2.ToString();
             sz.egyenleg_2 = "5000";
             egyenleg2.Text = sz.egyenleg_2.ToString();
